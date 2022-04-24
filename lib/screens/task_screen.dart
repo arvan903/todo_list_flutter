@@ -39,7 +39,7 @@ class TasksScreen extends StatelessWidget {
                   height: 10.0,
                 ),
                 Text(
-                  'Todo',
+                  'Todo List',
                   style: TextStyle(
                       color: Colors.white,
                       fontSize: 50.0,
